@@ -61,7 +61,7 @@ _________________________________________________________________
 ## 🔗 Medium Article
 
 Read the full analysis here:  
-👉 <INSERT YOUR MEDIUM LINK HERE>
+👉 https://medium.com/@SYChaudhry/what-makes-a-mobile-app-successful-on-google-play-f74914db409c
 _________________________________________________________________
 This project demonstrates how exploratory data analysis can be used to uncover meaningful patterns in real-world datasets and support data-driven decision making.
 ---
