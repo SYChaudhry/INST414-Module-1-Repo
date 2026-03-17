@@ -66,7 +66,5 @@ _________________________________________________________________
 This project demonstrates how exploratory data analysis can be used to uncover meaningful patterns in real-world datasets and support data-driven decision making.
 ---
 ## 👤 Author
-Shazab Chaudhry  
-University of Maryland
-INST414 - Data Science Techniques
+Shazab Chaudhry
 Date: March 17, 2026
