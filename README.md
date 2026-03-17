@@ -5,7 +5,7 @@ This project explores which factors are associated with app success on the Googl
 With millions of apps competing for attention, understanding what drives app success is important for developers and product teams. This analysis focuses on identifying patterns between app characteristics and install counts.
 
 The main goal is to answer:
-** What app attributes are associated with higher install counts on Google Play? **
+**What app attributes are associated with higher install counts on Google Play?**
 
 _________________________________________________________________
 ## 📁 Dataset
